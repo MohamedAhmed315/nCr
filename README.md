@@ -1,0 +1,2 @@
+# nCr
+Combination nCr
